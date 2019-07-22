@@ -1,1 +1,1 @@
-The source code is written on Ubuntu Dico Dingo
+The source code is written on Ubuntu Linux 
